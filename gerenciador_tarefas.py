@@ -30,7 +30,6 @@ def mostrar_tarefas():
     except IOError:
         print('\nArquivo não encontrado!')
 
-
 while(True):
     print("************************************************")
     print("*            Em que posso ajudar?              *")
