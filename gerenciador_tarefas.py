@@ -1,3 +1,15 @@
+# Um simples gerenciador de tarefas
+# onde, são feitas as seguintes perguntas:
+# Digite sua tarefa:
+# Data início:
+# Data final:
+# Digite a prioridade de 0 á 10:
+#
+# Futuramente, o usuário será notificado (?) sobre suas tarefas conforme a data e prioridade.
+#
+# Essas informações são salvas em "tarefas.txt" pelo programa,
+# usando a função 2 do programa, será exibido o conteúdo do arquivo (tarefas salvas).
+#
 arquivo = "tarefas.txt"
 
 def nova_tarefa(texto):
